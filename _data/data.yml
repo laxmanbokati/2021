@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Laxman Bokati
+    tagline: P.h.D Candidate, Computational Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: laxmanbokati@gmail.com
+    phone: 9152408129
+    Google Scholar: scholar.google.com/citations?user=-Hiu_xIAAAAJ&hl=en&oi=ao
     linkedin: alandoe
     xing: alandoe
     github: sharu725
