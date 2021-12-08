@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Laxman Bokati
-    tagline: P.h.D Candidate, Computational Science
+    tagline: Ph. D. Candidate, Computational Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -43,17 +43,17 @@ career-profile:
       behaviors and patterns can have perfectly reasonable and mathematical explanations.
       
 education:
+    - degree: Ph. D. in Computational Science
+      university: University of Texas at El paso
+      time: 2019 - 
+      details: |
+          - GPA: 4.0
+          
     - degree: MSc in Computational Science
       university: University of Texas at El paso
       time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - GPA: 4.0 
     - degree: BSc in Applied Mathematics
       university: Bristol University
       time: 2007 - 2011
