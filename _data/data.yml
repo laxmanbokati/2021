@@ -5,7 +5,6 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar 
-    research intrest: True
     
     
 
@@ -37,15 +36,14 @@ career-profile:
     summary: |
          - Decision Theory, Interval Computation
          - Decision Making Under Uncertainty
-         - Geosciences
+         - Applications to Geosciences & Economics
          - Renewable Energy, Solar/Wind Power 
-    
-research interests:
-    title: Research Intrests
+    title: research statement
     summary: |
-         - Decision Theory, Interval Computation
-         - Geosciences
-         - Renewable Energy, Solar/Wind Power  
+    In many real life scenarios we often have to make decisions based on imperfect observations or with unknown outcomes.
+    My research explores theory behind such decision making models and explains that seemingly odd behaviors and patterns can have perfectly reasonable and mathematical explanations.
+    
+  
       
 education:
     - degree: Ph. D. in Computational Science
