@@ -41,9 +41,9 @@ career-profile:
 research interests:
     title: Research Intrests
     summary: |
-          -Decision Theory, Interval Computation
-          -Geosciences
-          -Renewable Energy, Solar/Wind Power  
+         - Decision Theory, Interval Computation
+         - Geosciences
+         - Renewable Energy, Solar/Wind Power  
       
 education:
     - degree: Ph. D. in Computational Science
