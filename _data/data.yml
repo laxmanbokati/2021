@@ -5,6 +5,8 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
+    research interests: True
+    
     
     
 
@@ -37,7 +39,9 @@ career-profile:
       In many real life scenarios we often have to make decisions based on imperfect observations or with unknown
       outcomes. My research explores theory behind such decision making models and explains that seemingly odd
       behaviors and patterns can have perfectly reasonable and mathematical explanations.
-    research interests:
+    
+research interests:
+    title: Research Intrests
          Decision Theory, Interval Computation
          Geosciences
          Renewable Energy, Solar/Wind Power  
@@ -46,21 +50,18 @@ education:
     - degree: Ph. D. in Computational Science
       university: University of Texas at El paso
       time: 2019 - Present
-      GPA: 4.0
       details: |
-          -GPA: 4.0
+          GPA: 4.0
     - degree: MSc in Computational Science
       university: The University of Texas at El paso
       time: 2017 - 2019
-      GPA: 4.0
       details: |
-          -GPA: 4.0
+          GPA: 4.0
     - degree: BE Electrical Engineering
       university: Tribhuwan University
       time: 2008 - 2012
-      GPA: 3.66
       details: | 
-          -GPA: 3.66
+          GPA: 3.66
           
 
       
