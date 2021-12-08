@@ -115,6 +115,11 @@ publications:
         link: "https://doi.org/10.20965/jaciii.2020.p0589"
         authors: Nguyen P.H., Bokati L., Kreinovich V.
         conference: "Journal of Advanced Computational Intelligence and Intelligent Informatics(JACIII), 2020, Vol. 24, No. 5, pp. 589-592."
+      - title:  Scale-Invariance and Fuzzy Techniques Explain the Empirical Success of Inverse Distance Weighting and of Dual Inverse Distance Weighting in Geosciences
+        link: "https://scholarworks.utep.edu/cs_techrep/1418/"
+        authors: Bokati L., Velasco A., Kreinovich V.
+        conference: "Proceedings of the Annual Conference of the North American Fuzzy Information Processing Society NAFIPS'2020, Redmond, Washington, August 20-22, 2020, pp. 379-390."
+        
 
 skills:
     title: Skills &amp; Proficiency
@@ -124,10 +129,10 @@ skills:
         level: 98%
 
       - name: LaTeX & Beamer
-        level: 88%
+        level: 98%
 
       - name: C, C++,Python, R
-        level: 58%
+        level: 68%
 
       - name: AutoCAD
         level: 35%
