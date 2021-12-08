@@ -23,14 +23,14 @@ sidebar:
 
     languages:
     toolset:
-      - name: Nepali
-        level: 100%
+      - idiom: Nepali
+        level: Native
 
-      - name: English
-        level: 98%
+      - idiom: English
+        level: Professional
 
-      - name: Hindi
-        level: 80%
+      - idiom: Hindi
+        level: Professional
 
 career-profile:
     title: research intrest
