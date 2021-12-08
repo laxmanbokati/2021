@@ -9,20 +9,20 @@ sidebar:
     # Profile information
     name: Laxman Bokati
     tagline: Ph. D. Candidate, Computational Science
+    Research Interests:
+         Decision Theory, Interval Computation
+         Geosciences
+         Renewable Energy, Solar/Wind Power
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: laxmanbokati@gmail.com
     phone: 9152408129
-    Google Scholar: scholar.google.com/citations?user=-Hiu_xIAAAAJ&hl=en&oi=ao
     linkedin: laxman-bokati
     github: laxmanbokati
     bitbucket: laxmanbokati
     pdf: https://drive.google.com/file/d/1reVO_nutkrFIaHOWNRgNCLcHgaxPXTiS/view?usp=sharing
-    Research Interests:
-         Decision Theory, Interval Computation
-         Geosciences
-         Renewable Energy, Solar/Wind Power
+
     languages:
       - idiom: Nepali
         level: Native
