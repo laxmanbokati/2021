@@ -64,20 +64,27 @@ experiences:
       company: The University of Texas at El paso
       details: |
           - Assisted faculty in preparation, delivery and grading of coursers.
-          - Helped faculty with delivery of laboratories and assisted with research projects. 
+          - Helped faculty with delivery of lectures, laboratories and assisted with research projects. 
           - Tutored Undergraduate students at Math Resource Center for Students
         
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Project Engineer
+      time: 2013 - 2016
+      company: Aastha Engineering Solution Pvt.Ltd.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Selected Projects:
+          - Identification of potential sites and carryout Detail feasibility study of various wind-solar hybrid projects in
+            Nepal, Client: Alternate Energy Promotion Centre, Nepal.
+          - Carbon Credit Potential In Industries of Nepal, Client: Ministry of Industry, Nepal.
+          - Promotion and Dissemination of “Matribhumi Improoved Cooking Stove”.
+          - Promotion of “Low Energy Solar Water Pump”.
+          - Temporary Shelter (“Aashrya”) building in various Earthquake affected Districts.
+        Job Role:
+          - Preparing Proposal and Reports for projects.
+          - Assist in Management of resources and manpower.
+          - Represented Aastha in various workshop/training programs.
+          - Assist in survey, development, promotion, dissemination of various Renewable Energy projects.
+          - Assist in Supervision of the field visits and information collection.
+          - Meet and negotiate with clients on behalf of Aastha.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
