@@ -4,9 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-    research interests: True
-    
+    education: True # set to False if you want education in main section instead of in sidebar   
     
     
 
@@ -23,15 +21,15 @@ sidebar:
     bitbucket: laxmanbokati
     pdf: https://drive.google.com/file/d/1reVO_nutkrFIaHOWNRgNCLcHgaxPXTiS/view?usp=sharing
 
-    languages:
-      - idiom: Nepali
-        level: Native
+    Research Intrests:
+      - idiom: Decision Theory, Interval Computation
+        level: 
 
-      - idiom: English
-        level: Professional
+      - idiom: Geosciences
+        level: 
 
-      - idiom: Hindi
-        level: Professional
+      - idiom: Renewable Energy, Wind & Solar Power
+        level: 
 
 career-profile:
     title: Research Statement
