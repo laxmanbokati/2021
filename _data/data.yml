@@ -49,7 +49,7 @@ education:
       details: 
           
     - degree: MSc in Computational Science
-      university: University of Texas at El paso
+      university: The University of Texas at El paso
       time: 2017 - 2019
       details:
       
@@ -59,9 +59,9 @@ education:
       details:
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Teaching Assistant
+      time: 2017 - Present
+      company: The University of Texas at El paso
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
