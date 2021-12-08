@@ -5,14 +5,11 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    
 
     # Profile information
     name: Laxman Bokati
     tagline: Ph. D. Candidate, Computational Science
-    Research Interests:
-         Decision Theory, Interval Computation
-         Geosciences
-         Renewable Energy, Solar/Wind Power
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,6 +53,11 @@ education:
       time: 2008 - 2012
       details: | 
           -GPA: 3.66
+          
+Research Interests:
+         Decision Theory, Interval Computation
+         Geosciences
+         Renewable Energy, Solar/Wind Power
       
 experiences:
     - role: Teaching Assistant
