@@ -19,6 +19,10 @@ sidebar:
     github: laxmanbokati
     bitbucket: laxmanbokati
     pdf: https://drive.google.com/file/d/1reVO_nutkrFIaHOWNRgNCLcHgaxPXTiS/view?usp=sharing
+    Research Interests:
+      - item: Decision Theory, Interval Computation
+      - item: Geosciences
+      - item: Renewable Energy, Solar/Wind Power
     languages:
       - idiom: Nepali
         level: Native
@@ -28,11 +32,6 @@ sidebar:
 
       - idiom: Hindi
         level: Professional
-
-    Research Interests:
-      - item: Decision Theory, Interval Computation
-      - item: Geosciences
-      - item: Renewable Energy, Solar/Wind Power
 
 career-profile:
     title: Research Statement
