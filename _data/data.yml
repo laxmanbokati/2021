@@ -138,10 +138,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Technical Writing. 
+      - name: Technical Writing: Article, Proposal, Report, Poster, Preparation
         level: 98%
 
-      - name: LaTeX & Beamer, Microsoft Office Word, PowerPoint & Excel.
+      - name: LaTeX, Beamer, Microsoft Office Word, PowerPoint & Excel.
         level: 98%
 
       - name: Programming MATLAb, C, C++,Python, R
