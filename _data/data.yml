@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
+    research interests: True
     
 
     # Profile information
@@ -54,7 +55,7 @@ education:
       details: | 
           -GPA: 3.66
           
-Research Interests:
+research interests:
          Decision Theory, Interval Computation
          Geosciences
          Renewable Energy, Solar/Wind Power
