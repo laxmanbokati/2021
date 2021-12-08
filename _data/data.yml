@@ -47,16 +47,17 @@ education:
       university: University of Texas at El paso
       time: 2019 - Present
       details: 
-          
+            - GPA: 4.0
     - degree: MSc in Computational Science
       university: The University of Texas at El paso
       time: 2017 - 2019
       details:
-      
+            -GPA: 4.0
     - degree: BE Electrical Engineering
       university: Tribhuwan University
       time: 2008 - 2012
       details:
+            -GPA: 3.66
       
 experiences:
     - role: Teaching Assistant
@@ -79,24 +80,14 @@ experiences:
         - Promotion of “Low Energy Solar Water Pump”.
         - Temporary Shelter (“Aashrya”) building in various Earthquake affected Districts.
         
-          -Job Role:
+          -Assigned Job Roles:
             - Preparing Proposal and Reports for projects.
             - Assist in Management of resources and manpower.
             - Represented Aastha in various workshop/training programs.
             - Assist in survey, development, promotion, dissemination of various Renewable Energy projects.
             - Assist in Supervision of the field visits and information collection.
             - Meet and negotiate with clients on behalf of Aastha.
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    
 projects:
     title: Projects
     intro: >
@@ -150,23 +141,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: MATLAB 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: LaTeX & Beamer
+        level: 88%
 
-      - name: Angular
-        level: 98%
+      - name: C, C++,Python, R
+        level: 58%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: AutoCAD
+        level: 35%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
