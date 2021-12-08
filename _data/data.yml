@@ -32,7 +32,7 @@ sidebar:
         level: Professional
 
 career-profile:
-    title: research intrest
+    title: research intrests
     summary: |
          - Decision Theory, Interval Computation.
          - Decision Making Under Uncertainty.
@@ -58,7 +58,7 @@ education:
           
 
       
-experiences:
+Work experience:
     - role: Teaching Assistant
       time: 2017 - Present
       company: The University of Texas at El paso
