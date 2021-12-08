@@ -18,8 +18,7 @@ sidebar:
     linkedin: laxman-bokati
     github: laxmanbokati
     bitbucket: laxmanbokati
-    pdf: https://drive.google.com/file/d/1IvaEsSTLlELazu9lKGrrE21LQjWtp4C5/view?usp=sharing
-
+    pdf: https://drive.google.com/file/d/1reVO_nutkrFIaHOWNRgNCLcHgaxPXTiS/view?usp=sharing
     languages:
       - idiom: Nepali
         level: Native
@@ -112,6 +111,10 @@ publications:
         link: "https://doi.org/10.1007/978-3-030-65324-8_7"
         authors: Bokati L., Velasco A., Kreinovich V.
         conference: "How Uncertainty-Related Ideas Can Provide Theoretical Explanation for Empirical Dependencies, Springer, Cham, Switzerland, 2021, pp. 43-50"
+      - title:  A New (Simplified) Derivation of Nash’s Bargaining Solution
+        link: "https://doi.org/10.20965/jaciii.2020.p0589"
+        authors: Nguyen P.H., Bokati L., Kreinovich V.
+        conference: "Journal of Advanced Computational Intelligence and Intelligent Informatics(JACIII), 2020, Vol. 24, No. 5, pp. 589-592."
 
 skills:
     title: Skills &amp; Proficiency
