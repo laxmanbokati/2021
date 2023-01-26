@@ -105,6 +105,12 @@ publications:
     intro: |
 
     papers:
+    
+      - title: Decision Making Under Uncertainty, with a Special Emphasis on Geosciences and Education
+        link: "https://link.springer.com/book/9783031260858"
+        authors: Bokati L., Kreinovich V.
+        conference: "Springer Verlag, Cham, Switzerland, 2023."
+      
       - title: How to elicit complex-valued fuzzy degrees
         link: "https://scholarworks.utep.edu/cs_techrep/1649"
         authors: Bokati L., Kosheleva O., Kreinovich V.
