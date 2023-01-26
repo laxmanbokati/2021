@@ -105,12 +105,6 @@ publications:
     intro: |
 
     papers:
-    
-      - title: Decision Making Under Uncertainty, with a Special Emphasis on Geosciences and Education
-        link: "https://link.springer.com/book/9783031260858"
-        authors: Bokati L., Kreinovich V.
-        conference: "Springer Verlag, Cham, Switzerland, 2023."
-        
       - title: How to elicit complex-valued fuzzy degrees
         link: "https://scholarworks.utep.edu/cs_techrep/1649"
         authors: Bokati L., Kosheleva O., Kreinovich V.
@@ -155,7 +149,6 @@ publications:
         link: " http://thaijmath.in.cmu.ac.th/index.php/thaijmath/article/view/3905"
         authors: Nguyen P.H., Bokati L., Velasco A., Kreinovich V.
         conference: " Thai Journal of Mathematics, 2019, Special issue Structural Change Modeling and Optimization in Econometrics, pp. 57-69."
-        
         
 
 skills:
