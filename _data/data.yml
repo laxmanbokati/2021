@@ -116,7 +116,7 @@ publications:
         authors: Bokati L., Kosheleva O., Kreinovich V.
         conference: "Proceedings of the 2022 Annual Conference of North American Fuzzy Information Processing Society, Halifax, Nova Scotia, Canada, May 31 - June 3, 2022."
         
-      - title: How to Explain Anchoring Formula in Behavioral Economics
+      - title: How to Explain the Anchoring Formula in Behavioral Economics
         link: "https://doi.org/10.1007/978-3-030-77094-5_3"
         authors: Bokati L., Kreinovich V., Van Le C.
         conference: "Prediction and Causality in Econometrics and Related Topics, Springer, Cham, Switzerland, 2022, pp. 28-34."
@@ -130,6 +130,11 @@ publications:
         link: "https://doi.org/10.1007/978-3-030-65324-8_6"
         authors: Bokati L., Kreinovich V., Ha D.T. 
         conference: "How Uncertainty-Related Ideas Can Provide Theoretical Explanation for Empirical Dependencies, Springer, Cham, Switzerland, 2021, pp. 37-41."
+      
+      - title: How Can We Explain Different Number Systems?
+        link: "https://link.springer.com/chapter/10.1007/978-3-030-65324-8_4"
+        authors: Bokati L., Kosheleva O., Kreinovich V.
+        conference: "How Uncertainty-Related Ideas Can Provide Theoretical Explanation for Empirical Dependencies, Springer, Cham, Switzerland, 2021, pp. 21-26."
 
       - title:  Why Gamma Distribution of Seismic Inter-Event Times A Theoretical Explanation
         link: "https://doi.org/10.1007/978-3-030-65324-8_7"
