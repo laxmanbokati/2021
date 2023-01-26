@@ -59,8 +59,17 @@ education:
 
       
 experiences:
+
+    - role: Postdoctoral Research Scholar
+      time: 2022 - Present
+      company: Arizona State University
+      details: |
+          - Identified different data sources and developed methods to homogenize new and existing soil data.
+          - Working on developing homogenized global soil health, soil carbon and agriculture database. 
+          - Using global soil database and developing data-driven AI/ML models to explain soil health and soil carbon assimilation potential
+          
     - role: Teaching Assistant
-      time: 2017 - Present
+      time: 2017 - 2022
       company: The University of Texas at El paso
       details: |
           - Assisted faculty in preparation, delivery and grading of assigned coursers: Calculus-I, 
